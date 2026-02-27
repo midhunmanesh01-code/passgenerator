@@ -130,6 +130,6 @@ This is part of my continuous learning journey in software development.
 ## 👨‍💻 Author
 
 **Midhun Manesh**  
-B.Tech CSE (AI & ML) 
-College Of Engineering,Chengannur
+B.Tech CSE (AI & ML)    
+College Of Engineering,Chengannur   
 GitHub: https://github.com/midhunmanesh01-code
