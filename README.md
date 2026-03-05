@@ -4,16 +4,15 @@ A simple password generator built using **pure Python**.
 
 This repository contains two versions:
 
-- ✅ **Basic Password Generator** (Completed)
-- 🚧 **Advanced Password Generator** (In Progress)
-
+- ✅ **Basic Password Generator** 
+- 🚧 **Advanced Password Generator** 
 This project was created to strengthen Python fundamentals such as loops, conditionals, functions, and randomization.
 
 ---
 
 ## 📌 Project Overview
 
-### 1️⃣ Basic Password Generator (Completed)
+### 1️⃣ Basic Password Generator 
 
 The basic version:
 
@@ -27,7 +26,7 @@ The basic version:
 
 ### 2️⃣ Advanced Password Generator (Work in Progress)
 
-Planned features:
+Advanced features:
 
 - Custom selection options:
   - Uppercase letters
@@ -59,7 +58,7 @@ No third-party libraries required.
 password-generator/
 │
 ├── passbasic.py
-├── passadv.py   # (In Progress)
+├── passadv.py 
 └── README.md
 ```
 
@@ -123,7 +122,7 @@ This is part of my continuous learning journey in software development.
 ## 📌 Current Status
 
 - Basic Version: ✅ Completed
-- Advanced Version: 🚧 In Development
+- Advanced Version: ✅ Completed
 
 ---
 
